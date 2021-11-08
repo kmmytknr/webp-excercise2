@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: #fee;
+    background-image: url(background.jpeg);
+}
+h2{
+    background: #3e687d;
+    padding: 20px;
+}
+.id{
+    line-height: 0.5;
+}
+h4{
+    margin-bottom: 5px;
+}
+.bodyp{
+    line-height: 1.7;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
